@@ -30,10 +30,11 @@ The implementation involved several steps, including data preprocessing, model i
 
 ## Testing Queries:
 Here are a few queries that were used to test the model:
-- Query 1: "A orange summer dress or kurta to wear over blue denim jeans."
-- Query 2: "I'm looking for office wear sarees in elegant colors like pink, violet, or green..."
-- Query 3: "I'm searching for a versatile black leather jacket, suitable for various occasions..."
-- Query 4: "I'm seeking ethnic attire suitable for adults, with a preference for Ishin brand..."
+- Query 1: "Looking for a floral kurta set under ₹1500 for festive wear"
+- Query 2: "Show me summer dresses for women with cotton fabric"
+- Query 3: "Suggest formal shirts for office meetings"
+- Query 4: "Need winter jackets for women in black or navy blue"
+- Query 5: "Find denim jeans with high-rise waist and bootcut fit"
 
 ## Challenges:
 Several challenges were encountered during the implementation process, including:
