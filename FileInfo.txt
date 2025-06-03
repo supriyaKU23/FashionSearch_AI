@@ -1,0 +1,4 @@
+﻿This Zip file contains:
+1.Screenshots of queries for generation and search layers as requested.
+2.CodeFile : Fashion_Search_AI__Supriya_Uppala.ipynb ::Original Code File
+3.PDF file: FashionSearch_AI_Documentation.pdf :: consisting of documentation.
